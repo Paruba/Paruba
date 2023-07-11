@@ -8,5 +8,9 @@
   - nutrend.cz  XSS-reflected
   - reflexnutrition.cz  XSS-reflected
   - info.cz XSS-reflected
- 
+
+ ## `🐧` HACK THE BOX
 ![](https://www.hackthebox.eu/badge/image/510045)
+
+## `👨‍💻` DEVELOPMENT
+[![](https://skillicons.dev/icons?i=c,cpp,dotnet,cs,powershell,visualstudio,vscode,linux,docker)](https://skillicons.dev)
