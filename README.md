@@ -1,3 +1,4 @@
+## 😈 ABOUT
 - 👋 Hi, I’m @Paruba
 - 👀 I’m interested in cyber security.
 - 🌱 I’m currently learning for OSCP.
@@ -9,8 +10,8 @@
   - reflexnutrition.cz  XSS-reflected
   - info.cz XSS-reflected
 
- ## `🐧` HACK THE BOX
+ ## 🐧 HACK THE BOX
 ![](https://www.hackthebox.eu/badge/image/510045)
 
-## `👨‍💻` DEVELOPMENT
+## 👨‍💻 DEVELOPMENT
 [![](https://skillicons.dev/icons?i=c,cpp,dotnet,cs,powershell,visualstudio,vscode,linux,docker)](https://skillicons.dev)
