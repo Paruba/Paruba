@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning for OSCP.
 - 📫 You can reach me on discord Paruba#1343, https://www.linkedin.com/in/petr-paroubek-49a5bb14b/, https://app.hackthebox.com/profile/510045
 - Responsible disclosure
+  - mapy.cz XSS-reflected 
   - footshop.cz XSS-reflected
   - zatrolene-hry.cz  XSS-reflected, stored
   - nutrend.cz  XSS-reflected
